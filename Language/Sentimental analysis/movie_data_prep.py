@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-!tar -xzvf '/content/drive/MyDrive/data/aclImdb_v1.tar.gz'
+!tar -xzvf '/content/drive/MyDrive/DL datasets/Language/movie_senti.tar.gz'
 
 train_neg = '/content/aclImdb/train/neg'
 train_pos = '/content/aclImdb/train/pos'
